@@ -1,4 +1,5 @@
 {
 	type:lab,
-	predmet:OOP
+	predmet: OOP,
+	"41234": 3
 }
